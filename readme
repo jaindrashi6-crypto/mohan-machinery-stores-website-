@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Mohan Machinery Stores Gwalior</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Announcement Top Bar -->
+    <div class="top-bar">
+        <div class="container top-bar-content">
+            <div>
+                <span><i class="fa-solid fa-location-dot"></i> Lashkar, Gwalior (M.P.)</span>
+                <span><i class="fa-solid fa-clock"></i> 11:00 AM - 7:30 PM (Closed Tue)</span>
+            </div>
+            <div>
+                <a href="tel:+919425114628"><i class="fa-solid fa-phone"></i> +91 94251 14628</a>
+                <a href="https://wa.me/919425114628" target="_blank" class="whatsapp-btn"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Navigation Header -->
+    <header class="main-header">
+        <div class="container header-container">
+            <a href="index.html" class="brand-logo">
+                <div class="logo-badge">M</div>
+                <div>
+                    <h1>MOHAN MACHINERY STORES</h1>
+                    <p>Food Processing Machinery • Pumps • Motors</p>
+                </div>
+            </a>
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="products.html">Products</a>
+                <a href="contact.html" class="active">Contact Us</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Banner -->
+    <div class="page-banner">
+        <div class="container">
+            <h2>Contact Us & Store Visit</h2>
+            <p>Get in touch for machinery inquiries, pricing, and technical advice.</p>
+        </div>
+    </div>
+
+    <!-- Contact Grid -->
+    <section class="section">
+        <div class="container">
+            <div class="grid grid-contact">
+                <div class="contact-card">
+                    <h3>Store Contact Details</h3>
+                    <div class="detail-item">
+                        <i class="fa-solid fa-shop"></i>
+                        <div>
+                            <strong>Shop Name</strong>
+                            <p>Mohan Machinery Stores (M/S Mohan Machinery Stores)</p>
+                        </div>
+                    </div>
+                    <div class="detail-item">
+                        <i class="fa-solid fa-user"></i>
+                        <div>
+                            <strong>Proprietor</strong>
+                            <p>Mr. Mohan Kumar Jain</p>
+                        </div>
+                    </div>
+                    <div class="detail-item">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <div>
+                            <strong>Full Address</strong>
+                            <p>VSL Jain Complex, Near HDFC Bank, Gust Ka Tazia Chauraha, Lashkar, Gwalior, M.P. - 474001</p>
+                        </div>
+                    </div>
+                    <div class="detail-item">
+                        <i class="fa-solid fa-phone"></i>
+                        <div>
+                            <strong>Phone / Mobile</strong>
+                            <p><a href="tel:+919425114628">+91 94251 14628</a></p>
+                        </div>
+                    </div>
+                    <div class="detail-item">
+                        <i class="fa-solid fa-envelope"></i>
+                        <div>
+                            <strong>Email Address</strong>
+                            <p><a href="mailto:jain.mohan85@yahoo.com">jain.mohan85@yahoo.com</a></p>
+                        </div>
+                    </div>
+                    <div class="detail-item">
+                        <i class="fa-solid fa-clock"></i>
+                        <div>
+                            <strong>Operating Hours</strong>
+                            <p>11:00 AM – 07:30 PM (Closed on Tuesdays)</p>
+                        </div>
+                    </div>
+                    <a href="https://wa.me/919425114628" target="_blank" class="btn btn-whatsapp w-full"><i class="fa-brands fa-whatsapp"></i> Direct WhatsApp Chat</a>
+                </div>
+
+                <div class="contact-form-card">
+                    <h3>Send Inquiry Message</h3>
+                    <form class="contact-form" action="#" method="POST" onsubmit="alert('Inquiry logged successfully! We will get back to you shortly.'); return false;">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>Your Full Name *</label>
+                                <input type="text" required placeholder="e.g., Rajesh Sharma">
+                            </div>
+                            <div class="form-group">
+                                <label>Phone Number *</label>
+                                <input type="tel" required placeholder="e.g., 98260XXXXX">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Product Requirement *</label>
+                            <select required>
+                                <option value="">Select machinery category...</option>
+                                <option value="Flour Mill">Domestic Aata Chakki</option>
+                                <option value="Commercial Mill">Commercial Stone Flour Mill</option>
+                                <option value="Pulverizer">Industrial Pulverizer</option>
+                                <option value="Motor">Electric Motor (1-Phase / 3-Phase)</option>
+                                <option value="Pump">Submersible / Agricultural Pump</option>
+                                <option value="Dal Mill">Dal Mill Machinery</option>
+                                <option value="Spares">Replacement Spares & Belts</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Message / Specification Details</label>
+                            <textarea rows="4" placeholder="Specify HP, stone size, or required capacity..."></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Submit Inquiry</button>
+                    </form>
+
+                    <div class="map-box">
+                        <h4>Store Location</h4>
+                        <p><i class="fa-solid fa-map-pin"></i> VSL Jain Complex, Near HDFC Bank, Gust Ka Tazia Chauraha, Lashkar, Gwalior (M.P.)</p>
+                        <a href="https://maps.google.com/?q=Gust+Ka+Taziya+Lashkar+Gwalior" target="_blank" class="btn btn-secondary text-xs"><i class="fa-solid fa-arrow-up-right-from-square"></i> Open in Google Maps</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-grid">
+            <div>
+                <div class="footer-logo">
+                    <div class="logo-badge">M</div>
+                    <h3>MOHAN MACHINERY STORES</h3>
+                </div>
+                <p>Authorized dealer in Gwalior for domestic flour mills, heavy commercial pulverizers, motors, and agricultural pumping solutions.</p>
+                <div class="gstin">GSTIN: 23AJZPJ6253A1Z7</div>
+            </div>
+            <div>
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="index.html">Home Page</a></li>
+                    <li><a href="about.html">About Business</a></li>
+                    <li><a href="products.html">Machinery Catalog</a></li>
+                    <li><a href="contact.html">Contact & Location</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Product Range</h4>
+                <ul>
+                    <li>Flour Mills (Aata Chakki)</li>
+                    <li>Industrial Pulverizers</li>
+                    <li>1-Phase & 3-Phase Motors</li>
+                    <li>Submersible Water Pumps</li>
+                    <li>Dal Mill Units</li>
+                </ul>
+            </div>
+            <div>
+                <h4>Store Address</h4>
+                <p>VSL Jain Complex, Near HDFC Bank, Gust Ka Tazia Chauraha, Lashkar, Gwalior (M.P.) - 474001</p>
+                <p class="contact-phone"><i class="fa-solid fa-phone"></i> +91 94251 14628</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                © 2026 Mohan Machinery Stores, Gwalior. All Rights Reserved.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
