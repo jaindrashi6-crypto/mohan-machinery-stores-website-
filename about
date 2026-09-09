@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Mohan Machinery Stores Gwalior</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- Announcement Top Bar -->
+    <div class="top-bar">
+        <div class="container top-bar-content">
+            <div>
+                <span><i class="fa-solid fa-location-dot"></i> Lashkar, Gwalior (M.P.)</span>
+                <span><i class="fa-solid fa-clock"></i> 11:00 AM - 7:30 PM (Closed Tue)</span>
+            </div>
+            <div>
+                <a href="tel:+919425114628"><i class="fa-solid fa-phone"></i> +91 94251 14628</a>
+                <a href="https://wa.me/919425114628" target="_blank" class="whatsapp-btn"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Navigation Header -->
+    <header class="main-header">
+        <div class="container header-container">
+            <a href="index.html" class="brand-logo">
+                <div class="logo-badge">M</div>
+                <div>
+                    <h1>MOHAN MACHINERY STORES</h1>
+                    <p>Food Processing Machinery • Pumps • Motors</p>
+                </div>
+            </a>
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="about.html" class="active">About Us</a>
+                <a href="products.html">Products</a>
+                <a href="contact.html">Contact Us</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Page Banner -->
+    <div class="page-banner">
+        <div class="container">
+            <h2>About Mohan Machinery Stores</h2>
+            <p>Serving Gwalior & Nearby MP Districts with Reliable Milling & Industrial Equipment.</p>
+        </div>
+    </div>
+
+    <!-- About Main Content -->
+    <section class="section">
+        <div class="container">
+            <div class="grid grid-about">
+                <div class="about-text">
+                    <span class="badge">Shop Profile & Legacy</span>
+                    <h3>Empowering Small Businesses & Agri Processing in Madhya Pradesh</h3>
+                    <p>Established with a commitment to high durability and performance, <strong>Mohan Machinery Stores</strong> (M/S Mohan Machinery Stores) is a leading distributor and retailer of food processing machinery based in Lashkar, Gwalior.</p>
+                    <p>Managed by <strong>Mr. Mohan Kumar Jain</strong>, our business caters to home users starting small flour mills, commercial grain processing centers (Chakki Plants), farmers requiring agricultural water pumps, and construction contractors in need of concrete pump spares.</p>
+                    
+                    <div class="grid grid-2 info-boxes">
+                        <div class="info-box">
+                            <span class="label">Proprietor</span>
+                            <span class="val">Mr. Mohan Kumar Jain</span>
+                        </div>
+                        <div class="info-box">
+                            <span class="label">GST Identification</span>
+                            <span class="val highlight">23AJZPJ6253A1Z7</span>
+                        </div>
+                        <div class="info-box">
+                            <span class="label">Operating Since</span>
+                            <span class="val">2017 (7+ Years Active)</span>
+                        </div>
+                        <div class="info-box">
+                            <span class="label">Primary Region</span>
+                            <span class="val">Gwalior, Morena, Bhind, Shivpuri</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timings-card">
+                    <h3>Store Timings & Status <span class="status-open">Open Today</span></h3>
+                    <ul class="timing-list">
+                        <li><span>Monday - Saturday:</span> <strong>11:00 AM - 07:30 PM</strong></li>
+                        <li class="off-day"><span>Tuesday:</span> <strong>Weekly Off (Closed)</strong></li>
+                        <li><span>Sunday:</span> <strong>11:00 AM - 07:30 PM</strong></li>
+                    </ul>
+                    <div class="delivery-note">
+                        <strong><i class="fa-solid fa-truck-fast"></i> Delivery & Pickup Options:</strong>
+                        <p>Immediate store pickup available at Lashkar shop. Transport support arranged for neighboring districts (Morena, Bhind, Shivpuri, Datia).</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="commitments-block">
+                <h3>Our Core Commitments</h3>
+                <div class="grid grid-3">
+                    <div class="commit-card">
+                        <div class="num">01</div>
+                        <h4>Quality & Durability</h4>
+                        <p>We supply 100% copper winding electric motors and high-grade cast iron flour mills for long operating life.</p>
+                    </div>
+                    <div class="commit-card">
+                        <div class="num">02</div>
+                        <h4>Honest Pricing</h4>
+                        <p>Fair wholesale pricing without hidden charges, ensuring entrepreneurs can set up flour mills cost-effectively.</p>
+                    </div>
+                    <div class="commit-card">
+                        <div class="num">03</div>
+                        <h4>Spare Parts Assured</h4>
+                        <p>Never run out of essential wear-and-tear parts like emery stones, belts, bearings, and pulverizer blades.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-grid">
+            <div>
+                <div class="footer-logo">
+                    <div class="logo-badge">M</div>
+                    <h3>MOHAN MACHINERY STORES</h3>
+                </div>
+                <p>Authorized dealer in Gwalior for domestic flour mills, heavy commercial pulverizers, motors, and agricultural pumping solutions.</p>
+                <div class="gstin">GSTIN: 23AJZPJ6253A1Z7</div>
+            </div>
+            <div>
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="index.html">Home Page</a></li>
+                    <li><a href="about.html">About Business</a></li>
+                    <li><a href="products.html">Machinery Catalog</a></li>
+                    <li><a href="contact.html">Contact & Location</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Product Range</h4>
+                <ul>
+                    <li>Flour Mills (Aata Chakki)</li>
+                    <li>Industrial Pulverizers</li>
+                    <li>1-Phase & 3-Phase Motors</li>
+                    <li>Submersible Water Pumps</li>
+                    <li>Dal Mill Units</li>
+                </ul>
+            </div>
+            <div>
+                <h4>Store Address</h4>
+                <p>VSL Jain Complex, Near HDFC Bank, Gust Ka Tazia Chauraha, Lashkar, Gwalior (M.P.) - 474001</p>
+                <p class="contact-phone"><i class="fa-solid fa-phone"></i> +91 94251 14628</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                © 2026 Mohan Machinery Stores, Gwalior. All Rights Reserved.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
